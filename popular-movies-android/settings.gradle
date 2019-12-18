@@ -1,0 +1,2 @@
+include ':app', ':popular_movies_sdk'
+rootProject.name='Popular Movies'

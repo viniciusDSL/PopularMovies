@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="loading_message">Loading</string>
+    <string name="title">Title :</string>
+    <string name="release_date">Release date :</string>
+    <string name="vote_average">Vote average :</string>
+    <string name="title_activity_detail">DetailActivity</string>
+</resources>
